@@ -1,0 +1,48 @@
+body{
+	background-color: #333;
+	font-family: lucida fax;
+	font-weight: 400;
+	font-size: 24px;
+color: #ccc;
+
+}
+
+
+.text-center{
+	text-align: center;
+}
+
+.text-right{
+	text-align: right;
+}
+.text-left{
+	text-align: left;
+}
+
+.form{
+border: 1px solid #fff;
+width: 50%;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+margin-top: 5px;
+margin-bottom: 5px;
+	text-align: center;
+}
+input[type="text"]{
+	width: 100%;
+	margin-right: 10px;
+	padding:10px;
+	margin-bottom: 20px;
+}
+input[type="password"]{
+	width: 100%;
+	margin-right: 10px;
+	padding:10px;
+	margin-bottom: 20px;
+}
+
+
+
+
